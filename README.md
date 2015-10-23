@@ -1,2 +1,4 @@
 # ethical_dilemmas
-Code for our implementations of the ethical dilemmas Cake or Death and Burning Room, and their solvers.
+Implementations of the ethical dilemmas Cake or Death and Burning Room, and their solvers.
+
+By: David Abel and James MacGlashan.
